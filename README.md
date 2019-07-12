@@ -298,6 +298,15 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 :gem: <b> MeshNet: Mesh Neural Network for 3D Shape Representation (AAAI 2019) </b> [[Paper]](https://arxiv.org/pdf/1811.11424.pdf) [[Code]](https://github.com/Yue-Group/MeshNet)
 <p align="center"><img width="50%" src="http://www.gaoyue.org/en_tsinghua/resrc/meshnet.jpg" /></p>
 
+:game_die: <b>SpiderCNN (2018)</b> [[Paper]](https://github.com/xyf513/SpiderCNN)[[Code]](https://github.com/xyf513/SpiderCNN)
+<p align="center"><img width="50%" src="http://5b0988e595225.cdn.sohucs.com/images/20181109/45c3b670e67f43b288791c650fb7fb0b.jpeg" /></p>
+
+:game_die: <b>PointConv (2018)</b> [[Paper]](https://github.com/DylanWusee/pointconv/tree/master/imgs)[[Code]](https://github.com/DylanWusee/pointconv/tree/master/imgs)
+<p align="center"><img width="50%" src="https://pics4.baidu.com/feed/8b82b9014a90f603272fe29f88ef061fb251ed49.jpeg?token=b23e1dbbaeaf12ffe3d168bd997a8d66&s=01307D328FE07C010C69C1CE0000D0B3" /></p>
+
+:gem: <b>MeshCNN (SIGGRAPH 2019)</b> [[Paper]](https://bit.ly/meshcnn)[[Code]](https://github.com/ranahanocka/MeshCNN)
+<p align="center"><img width="50%" src="https://github.com/ranahanocka/MeshCNN/blob/master/docs/imgs/alien.gif?raw=true" /></p>
+
 <a name="multiple_detection" />
 
 
@@ -310,6 +319,9 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 
 <b>Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images (2016)</b> [[Paper]](http://dss.cs.princeton.edu/) [[Code]](https://github.com/shurans/DeepSlidingShape)
 <p align="center"><img width="50%" src="http://3dvision.princeton.edu/slide/DSS.jpg" /></p>
+
+<b>Three-Dimensional Object Detection and Layout Prediction using Clouds of Oriented Gradients (2016)</b> [[CVPR '16 Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ren_Three-Dimensional_Object_Detection_CVPR_2016_paper.pdf) [[CVPR '18 Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_3D_Object_Detection_CVPR_2018_paper.pdf) [[T-PAMI '19 Paper]](https://arxiv.org/pdf/1906.04725) 
+<p align="center"><img width="50%" src="https://github.com/luvegood/3D-Machine-Learning/blob/master/imgs/Three-Dimensional%20Object%20Detection%20and%20Layout%20Prediction%20using%20Clouds%20of%20Oriented%20Gradients.png" /></p>
 
 <b>DeepContext: Context-Encoding Neural Pathways  for 3D Holistic Scene Understanding (2016)</b> [[Paper]](http://deepcontext.cs.princeton.edu/)
 <p align="center"><img width="50%" src="http://deepcontext.cs.princeton.edu/teaser.png" /></p>
@@ -384,16 +396,25 @@ Parsing of Large-scale 3D Point Clouds (2017)</b> [[Paper]](https://arxiv.org/pd
 <p align="center"><img width="50%" src="http://yangyan.li/images/paper/pointcnn.png" /></p>
 
 :camera::space_invader: <b>3DMV: Joint 3D-Multi-View Prediction for 3D Semantic Scene Segmentation (2018)</b> [[Paper]](https://arxiv.org/pdf/1803.10409.pdf)
-<p align="center"><img width="50%" src="https://cs.stanford.edu/~adai/papers/2018/1threedmv/teaser.jpg" /></p>
+<p align="center"><img width="50%" src="https://github.com/angeladai/3DMV/blob/master/images/teaser.jpg" /></p>
 
 :space_invader: <b>ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.10215.pdf) 
-<p align="center"><img width="50%" src="https://cs.stanford.edu/~adai/papers/2018/0scancomplete/teaser.jpg" /></p>
+<p align="center"><img width="50%" src="https://github.com/angeladai/ScanComplete/blob/master/images/teaser_mesh.jpg" /></p>
 
 :game_die::camera: <b>SPLATNet: Sparse Lattice Networks for Point Cloud Processing (2018)</b> [[Paper]](https://arxiv.org/pdf/1802.08275.pdf)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/SPLATNet-%20Sparse%20Lattice%20Networks%20for%20Point%20Cloud%20Processing.jpeg" /></p>
 
 :game_die::space_invader: <b>PointGrid: A Deep Network for 3D Shape Understanding (CVPR 2018) </b> [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Le_PointGrid_A_Deep_CVPR_2018_paper.pdf) [[Code]](https://github.com/trucleduc/PointGrid)
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/PointGrid-%20A%20Deep%20Network%20for%203D%20Shape%20Understanding%20(2018).jpeg" /></p>
+
+:game_die: <b>PointConv (2018)</b> [[Paper]](https://github.com/DylanWusee/pointconv/tree/master/imgs)[[Code]](https://github.com/DylanWusee/pointconv/tree/master/imgs)
+<p align="center"><img width="50%" src="https://pics4.baidu.com/feed/8b82b9014a90f603272fe29f88ef061fb251ed49.jpeg?token=b23e1dbbaeaf12ffe3d168bd997a8d66&s=01307D328FE07C010C69C1CE0000D0B3" /></p>
+
+:game_die: <b>SpiderCNN (2018)</b> [[Paper]](https://github.com/xyf513/SpiderCNN)[[Code]](https://github.com/xyf513/SpiderCNN)
+<p align="center"><img width="50%" src="http://5b0988e595225.cdn.sohucs.com/images/20181109/45c3b670e67f43b288791c650fb7fb0b.jpeg" /></p>
+
+:space_invader: <b>3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans (CVPR 2019)</b> [[Paper]](https://arxiv.org/pdf/1812.07003.pdf)[[Code]](https://github.com/Sekunde/3D-SIS)
+<p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/6sis/teaser.jpg" /></p>
 
 <a name="3d_synthesis" />
 
@@ -638,7 +659,7 @@ _Deep Learning Methods_
 <p align="center"><img width="50%" src="https://github.com/frankhjwx/3D-Machine-Learning/blob/master/imgs/Deep%20Marching%20Cubes.png" /></p>
 
 :space_invader: <b>Im2Avatar: Colorful 3D Reconstruction from a Single Image (2018)</b> [[Paper]](https://arxiv.org/pdf/1804.06375v1.pdf)
-<p align="center"><img width="50%" src="https://arxiv-sanity-sanity-production.s3.amazonaws.com/render-output/113225/figures/teaser.png" /></p>
+<p align="center"><img width="50%" src="https://github.com/syb7573330/im2avatar/blob/master/misc/demo_teaser.png" /></p>
 
 :gem: <b>Learning Category-Specific Mesh Reconstruction  from Image Collections (2018)</b> [[Paper]](https://akanazawa.github.io/cmr/#)
 <p align="center"><img width="50%" src="https://akanazawa.github.io/cmr/resources/images/teaser.png" /></p>
@@ -695,7 +716,7 @@ _Deep Learning Methods_
 <p align="center"><img width="50%" src="https://pbs.twimg.com/media/DxFaW-mU8AEo9wc.jpg" /></p>
 
 :gem: <b>Learning View Priors for Single-view 3D Reconstruction (CVPR 2019)</b> [[Paper]](http://hiroharu-kato.com/projects_en/view_prior_learning.html)
-<p align="center"><img width="50%" src="" /></p>
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Learning%20View%20Priors%20for%20Single-view%203D%20Reconstruction.png" /></p>
 
 <a name="material_synthesis" />
 
@@ -731,7 +752,7 @@ _Deep Learning Methods_
 <p align="center"><img width="50%" src="https://i.ytimg.com/vi/VM2ysCnD9GA/maxresdefault.jpg" /></p>
 
 <b>Non-stationary Texture Synthesis by Adversarial Expansion (2018 SIGGRAPH)</b> [[Paper]](http://vcc.szu.edu.cn/research/2018/TexSyn)
-<p align="center"><img width="50%" src="http://vcc.szu.edu.cn/upload/image/20180424/20180424130538_128.jpg" /></p>
+<p align="center"><img width="50%" src="https://github.com/jessemelpolio/non-stationary_texture_syn/blob/master/imgs/teaser.png" /></p>
 
 <b>Synthesized Texture Quality Assessment via Multi-scale Spatial and Statistical Texture Attributes of Image and Gradient Magnitude Coefficients (2018 CVPR)</b> [[Paper]](https://arxiv.org/pdf/1804.08020.pdf)
 <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/12434910/39275366-e18c7c1c-4899-11e8-8e61-05072618bbce.PNG" /></p>
@@ -783,10 +804,13 @@ using Style-Synchonized GANs (2018 SIGGRAPH Asia)</b> [[Paper]](http://geometry.
 <p align="center"><img width="50%" src="https://pbs.twimg.com/media/DPSm-4HWkAApEZd.jpg" /></p>
 
 <b>Appearance Modeling via Proxy-to-Image Alignment (2018)</b> [[Paper]](http://vcc.szu.edu.cn/research/2018/AppMod)
-<p align="center"><img width="50%" src="http://vcc.szu.edu.cn/viewFile/0/58/attached/image/20171026/20171026180502_864.jpg" /></p>
+<p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Appearance%20Modeling%20via%20Proxy-to-Image%20Alignment.png" /></p>
 
 :gem: <b>Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images (2018)</b> [[Paper]](http://bigvid.fudan.edu.cn/pixel2mesh/)
-<p align="center"><img width="50%" src="http://bigvid.fudan.edu.cn/pixel2mesh/eccv2018/pipeline_01.jpg" /></p>
+<p align="center"><img width="50%" src="https://pbs.twimg.com/media/DaIuEnfU0AAqesA.jpg" /></p>
+
+<b>Automatic Unpaired Shape Deformation Transfer (SIGGRAPH Asia 2018)</b> [[Paper]](http://geometrylearning.com/ausdt/)
+<p align="center"><img width="50%" src="http://geometrylearning.com/ausdt/imgs/teaser.png" /></p>
 
 <a name="scene_synthesis" />
 
@@ -849,7 +873,7 @@ using Style-Synchonized GANs (2018 SIGGRAPH Asia)</b> [[Paper]](http://geometry.
 <p align="center"><img width="50%" src="http://art-programmer.github.io/floornet/teaser.png" /></p>
 
 :space_invader: <b>ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans (2018)</b> [[Paper]](https://arxiv.org/pdf/1712.10215.pdf) 
-<p align="center"><img width="50%" src="https://cs.stanford.edu/~adai/papers/2018/0scancomplete/teaser.jpg" /></p>
+<p align="center"><img width="50%" src="https://niessnerlab.org/papers/2018/3scancomplete/teaser.jpg" /></p>
 
 <b>Deep Convolutional Priors for Indoor Scene Synthesis (2018)</b> [[Paper]](https://kwang-ether.github.io/pdf/deepsynth.pdf) 
 <p align="center"><img width="50%" src="http://msavva.github.io/files/deepsynth.png" /></p>
@@ -872,6 +896,18 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 
 <b>SEETHROUGH: Finding Objects in Heavily Occluded Indoor Scene Images (2018)</b> [[Paper]](http://www.vovakim.com/papers/18_3DVOral_SeeThrough.pdf) 
 <p align="center"><img width="50%" src="http://geometry.cs.ucl.ac.uk/projects/2018/seethrough/paper_docs/result_plate.png" /></p>
+
+<b>:space_invader: Scan2CAD: Learning CAD Model Alignment in RGB-D Scans (CVPR 2019)</b> [[Paper]](https://arxiv.org/pdf/1811.11187.pdf) [[Code]](https://github.com/skanti/Scan2CAD)
+<p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/5scan2cad/teaser.jpg" /></p>
+
+<b>:gem: Scan2Mesh: From Unstructured Range Scans to 3D Meshes (CVPR 2019)</b> [[Paper]](https://arxiv.org/pdf/1811.10464.pdf)
+<p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/4scan2mesh/teaser.jpg" /></p>
+
+<b>:space_invader: 3D-SIC: 3D Semantic Instance Completion for RGB-D Scans (arXiv 2019)</b> [[Paper]](https://arxiv.org/pdf/1904.12012.pdf)
+<p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/z1sic/teaser.jpg" /></p>
+
+<b>:space_invader: End-to-End CAD Model Retrieval and 9DoF Alignment in 3D Scans (arXiv 2019)</b> [[Paper]](https://arxiv.org/abs/1906.04201)
+<p align="center"><img width="50%" src="http://www.niessnerlab.org/papers/2019/z2end2end/teaser.jpg" /></p>
 
 <a name="scene_understanding" />
 
@@ -913,10 +949,10 @@ with Per-Pixel Ground Truth using Stochastic Grammars (2018)</b> [[Paper]](https
 <p align="center"><img width="50%" src="http://3dinterpreter.csail.mit.edu/images/spotlight_3dinn_large.jpg" /></p>
 
 <b>Deep Multi-Modal Image Correspondence Learning (2016)</b> [[Paper]](http://www.cse.wustl.edu/~chenliu/floorplan-matching.html)
-<p align="center"><img width="50%" src="https://www.cse.wustl.edu/~furukawa/carousel/2016-floorplan-wide.png" /></p>
+<p align="center"><img width="50%" src="http://art-programmer.github.io/floorplan-matching/teaser.png" /></p>
 
 <b>Physically-Based Rendering for Indoor Scene Understanding Using Convolutional Neural Networks (2017)</b> [[Paper]](http://3dvision.princeton.edu/projects/2016/PBRS/) [[Code]](https://github.com/yindaz/pbrs) [[Code]](https://github.com/yindaz/surface_normal) [[Code]](https://github.com/fyu/dilation) [[Code]](https://github.com/s9xie/hed)
-<p align="center"><img width="50%" src="http://robots.princeton.edu/projects/2016/PBRS/teaser.jpg" /></p>
+<p align="center"><img width="50%" src="https://pbs.twimg.com/media/C0YERJOXEAA69xN.jpg" /></p>
 
 <b>RoomNet: End-to-End Room Layout Estimation (2017)</b> [[Paper]](https://arxiv.org/pdf/1703.06241.pdf)
 <p align="center"><img width="50%" src="https://pbs.twimg.com/media/C7Z29GsV0AASEvR.jpg" /></p>
